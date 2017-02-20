@@ -1,4 +1,4 @@
-.jumbotron {
+    .jumbotron {
     background-image: url('../assets/backgrounds/landing.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -18,3 +18,8 @@ body {
     line-height: 1;
     letter-spacing: -.05rem;
 }
+
+.img-thumbnail {
+    width: 525px;
+    height: 400px;
+    box-shadow: -1px 1px 5px 4px #E3E3E3;
