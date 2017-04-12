@@ -1,25 +1,59 @@
     .jumbotron {
-    background-image: url('../assets/backgrounds/landing.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-}
+        background-image: url('../assets/backgrounds/landing.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        padding-bottom: 100px;
+    }
 
-body {
-    height: 100%;
-    width: 100%;
-}
+    body {
+        height: 100%;
+        width: 100%;
+    }
 
-.logo {
-    text-align: center;
-}
+    .logo {
+        text-align: center;
+    }
 
-.featurette-heading {
-    font-weight: 300;
-    line-height: 1;
-    letter-spacing: -.05rem;
-}
+    .featurette-heading {
+        font-weight: 300;
+        line-height: 1;
+        letter-spacing: -.05rem;
+    }
 
-.img-thumbnail {
-    width: 525px;
-    height: 400px;
-    box-shadow: -1px 1px 5px 4px #E3E3E3;
+    .img-thumbnail {
+        width: 525px;
+        height: 400px;
+        box-shadow: -1px 1px 5px 4px #E3E3E3;
+    }
+
+    .testimonials {
+        text-align: center;
+        margin: 75px 100px 75px 100px;
+        border: 10px solid #fff;
+        box-shadow: -1px 1px 5px 4px #E3E3E3;
+        padding: 20px 20px 20px 20px;
+    }
+
+    #col {
+        border-left: 0.1pt solid grey;
+    }
+
+    .jumbotron1 {
+        background-image: url('../assets/backgrounds/foodsBg.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    #drinks {
+        padding: 50px;
+    }
+
+    #fd {
+        padding: 50px;
+    }
+
+    #men {
+        margin: 0px;
+        padding: 0px;
+        margin-right: 50px;
+    }
